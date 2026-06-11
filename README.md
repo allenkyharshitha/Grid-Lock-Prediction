@@ -54,7 +54,7 @@ Web App Preview
  Author
 ---------
 
-**Bhanu Prasad Dharavathu**  
+**Harshitha Naidu Allenky**  
 Master’s Student in Computer Science 
 Email: allenkyharshitha@gmail.com]
 
